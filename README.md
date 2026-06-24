@@ -1,0 +1,1 @@
+This is a lab report for Aritificial Intelligence on machine learning where we created a dataset of 100 points containing some outliers, null values for five feature and a binary class that allows us to manually enter the values and predict if the 5th feautre is a spam(representing class 1) or not spam( class 0) with some visual representation.
